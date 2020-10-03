@@ -11,7 +11,7 @@ Make sure you have [docker](https://docs.docker.com/engine/install/) and [docker
 
 After cloning this repository, write the below command to run this project.
 ```bash
-docker-compose run
+docker-compose up
 ```
 &nbsp;
 
